@@ -5,7 +5,7 @@
 
 ---
 
-## 🇫🇷 Français
+## Français
 
 ### Présentation
 
@@ -76,7 +76,7 @@ Le modèle est un CNN défini dans `model_architecture.py`, entraîné avec **Py
 
 ---
 
-## 🇬🇧 English
+## English
 
 ### Overview
 
